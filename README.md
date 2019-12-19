@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/qwertyuiop888/ArduinoStarting/master/images/IM
 
 ## Neopixel
 Connect the strip as labeled, I did not need resistors for the nano
+
 Make sure the VDC one goes to 5V
 https://raw.githubusercontent.com/qwertyuiop888/ArduinoStarting/master/images/IMG_20191217_141521028_HDR.jpg
 https://raw.githubusercontent.com/qwertyuiop888/ArduinoStarting/master/images/IMG_20191217_231651660_HDR.jpg
