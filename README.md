@@ -20,4 +20,4 @@ Make sure to connect VDC to 5V
 
 1. Jumping- light up one random pixel every x seconds
 2. Wave- x connected pixels loop around 
-3. RGB - full rgb effect- fading colors and movement [GIF](https://github.com/qwertyuiop888/ArduinoStarting/blob/master/images/rgb.gif)
+3. RGB - full rgb effect- fading colors and movement [gif](https://github.com/qwertyuiop888/ArduinoStarting/blob/master/images/rgb.gif)
