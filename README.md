@@ -102,7 +102,7 @@ Connect Nepixel onto rotary
 
 You can connect multiple things to the same 5V and multiple things to the same ground
 
-Make a program that adds/subtracts pixels on rotating the rotary
+Make a program that adds/subtracts pixels on rotating the rotary [gif](https://github.com/qwertyuiop888/ArduinoStarting/blob/master/images/rotaryneo.gif)
 
 Reaction time test - soon, 
 
